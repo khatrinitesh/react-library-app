@@ -1,10 +1,11 @@
-import ReactIconApp from "./library/react-icons/1"
+import AxiosApp from "./library/axios/1"
+
 
 function App() {
 
   return (
     <>
-      <ReactIconApp/>
+      <AxiosApp/>
     </>
   )
 }
